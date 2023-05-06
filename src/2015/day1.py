@@ -1,4 +1,4 @@
-data = open("day1input.txt").read()
+data = open("src/2015/inputs/day1input.txt").read()
 
 
 def getFloor(data, stopOnBasement):
